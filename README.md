@@ -1,4 +1,5 @@
-📚 EstudoLab
+**📚 EstudoLab**
+
 EstudoLab é uma plataforma projetada para melhorar a experiência educacional de estudantes e professores, facilitando o acesso a materiais, organização de estudos e colaboração eficaz. O projeto segue as melhores práticas de desenvolvimento ágil com a metodologia Scrum.
 
 🚀 Objetivo do Projeto
